@@ -1,5 +1,5 @@
 
-# Todo App (Backend)
+# Todo App (Express)
 
 This is a simple Todo application built with **Node.js** and **Express.js**. The application demonstrates basic CRUD (Create, Read, Update, Delete) functionality for managing Todos.
 
